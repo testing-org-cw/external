@@ -6,7 +6,6 @@
 #    - wse-master
 #    - salmon-accordion
   only:
-    - external_pull_requests
     - merge_requests
     - web
   retry:
